@@ -1,0 +1,123 @@
+2021/01/12 15:31:00 [error] 2680#14504: *1 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/12 15:33:31 [notice] 16896#17860: signal process started
+2021/01/12 15:33:46 [error] 5300#15784: *4 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:35:44 [notice] 3376#11220: signal process started
+2021/01/12 15:35:49 [error] 17172#3332: *8 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/favicon-32x32.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/favicon-32x32.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:35:49 [error] 17172#3332: *8 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/favicon-16x16.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/favicon-16x16.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:35:49 [error] 17172#3332: *8 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:48:52 [notice] 9492#18096: signal process started
+2021/01/12 15:48:59 [error] 2820#16000: *15 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:49:01 [error] 2820#16000: *15 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:50:28 [notice] 14296#16904: signal process started
+2021/01/12 15:50:31 [error] 13464#11156: *18 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:50:43 [error] 13464#11156: *18 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:53:36 [notice] 11228#15056: signal process started
+2021/01/12 15:53:46 [error] 18316#11556: *21 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:54:07 [error] 18316#11556: *21 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 15:59:15 [notice] 14624#4128: signal process started
+2021/01/12 15:59:18 [notice] 16756#5944: signal process started
+2021/01/12 15:59:37 [error] 16112#18044: *24 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:12:35 [error] 16112#18044: *27 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:12:38 [error] 16112#18044: *27 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:13:40 [notice] 16928#1912: signal process started
+2021/01/12 16:13:55 [error] 1116#11964: *35 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:13:56 [error] 1116#11964: *35 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:14:36 [notice] 1912#16928: signal process started
+2021/01/12 16:14:40 [error] 15472#17552: *45 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:14:42 [error] 15472#17552: *45 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:17:05 [error] 15472#17552: *50 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:17:07 [error] 15472#17552: *50 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:23:03 [notice] 13424#18284: signal process started
+2021/01/12 16:23:11 [error] 1380#14820: *58 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:23:14 [error] 1380#14820: *58 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:24:42 [notice] 1012#5776: signal process started
+2021/01/12 16:24:46 [error] 8992#7264: *65 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:24:48 [error] 8992#7264: *65 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:25:39 [notice] 6272#4464: signal process started
+2021/01/12 16:25:43 [error] 15700#15888: *75 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:25:46 [error] 15700#15888: *75 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:26:01 [error] 15700#15888: *76 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:27:11 [error] 15700#15888: *81 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:33:33 [notice] 16116#15076: signal process started
+2021/01/12 16:33:41 [error] 17032#12608: *84 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:35:31 [notice] 13956#17124: signal process started
+2021/01/12 16:35:36 [error] 14596#16392: *104 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:39:43 [notice] 13508#13276: signal process started
+2021/01/12 16:39:48 [error] 13484#12156: *115 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:41:13 [notice] 5360#15668: signal process started
+2021/01/12 16:41:27 [error] 15232#8380: *123 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 16:55:39 [notice] 16412#18004: signal process started
+2021/01/12 16:55:46 [error] 17792#18020: *133 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 17:20:44 [notice] 12720#14360: signal process started
+2021/01/12 17:20:50 [error] 15508#6932: *141 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:5000", referrer: "http://localhost:5000/"
+2021/01/12 17:21:41 [warn] 7424#17420: server name "http://sim.lif-watch.com" has suspicious symbols in C:\Users\lifewatch01\Desktop\nginx-1.18.0/conf/nginx.conf:37
+2021/01/12 17:21:41 [notice] 7424#17420: signal process started
+2021/01/12 17:21:41 [warn] 14212#17236: server name "http://sim.lif-watch.com" has suspicious symbols in C:\Users\lifewatch01\Desktop\nginx-1.18.0/conf/nginx.conf:37
+2021/01/12 17:23:09 [notice] 3048#17900: signal process started
+2021/01/12 17:23:17 [error] 9160#18024: *151 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/favicon-32x32.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/favicon-32x32.png HTTP/1.1", host: "localhost:8989", referrer: "http://localhost:8989/"
+2021/01/12 17:23:17 [error] 9160#18024: *151 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/favicon-16x16.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/favicon-16x16.png HTTP/1.1", host: "localhost:8989", referrer: "http://localhost:8989/"
+2021/01/12 17:23:18 [error] 9160#18024: *150 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:8989", referrer: "http://localhost:8989/"
+2021/01/12 17:23:43 [notice] 15032#880: signal process started
+2021/01/12 17:23:47 [error] 16952#13504: *162 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/android-chrome-192x192.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0, request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", host: "localhost:8989", referrer: "http://localhost:8989/"
+2021/01/12 17:24:21 [error] 16952#13504: *171 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/favicon-32x32.png" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "GET /img/icons/favicon-32x32.png HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 17:24:21 [error] 16952#13504: *171 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/img/icons/favicon-16x16.png" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "GET /img/icons/favicon-16x16.png HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 17:25:10 [notice] 17836#12272: signal process started
+2021/01/12 17:35:18 [notice] 4300#17764: signal process started
+2021/01/12 17:39:27 [notice] 16808#7796: signal process started
+2021/01/12 17:39:59 [notice] 6240#17724: signal process started
+2021/01/12 17:40:36 [notice] 13976#6604: signal process started
+2021/01/12 17:41:03 [notice] 5452#8524: signal process started
+2021/01/12 17:41:20 [notice] 9744#14488: signal process started
+2021/01/12 17:42:22 [notice] 12272#15420: signal process started
+2021/01/12 17:42:41 [notice] 12744#13132: signal process started
+2021/01/12 17:43:03 [notice] 5844#12468: signal process started
+2021/01/12 17:43:35 [notice] 18160#6604: signal process started
+2021/01/12 17:43:53 [notice] 17676#6316: signal process started
+2021/01/12 17:44:47 [notice] 2680#17808: signal process started
+2021/01/12 17:51:17 [notice] 4200#3168: signal process started
+2021/01/12 17:51:34 [notice] 15556#13140: signal process started
+2021/01/12 17:52:01 [notice] 8936#16984: signal process started
+2021/01/12 17:52:16 [notice] 5224#13676: signal process started
+2021/01/12 17:52:22 [error] 14624#16976: *246 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 17:52:42 [notice] 16264#13624: signal process started
+2021/01/12 17:53:40 [notice] 14564#11904: signal process started
+2021/01/12 17:54:45 [notice] 2744#17148: signal process started
+2021/01/12 17:55:01 [notice] 17524#3168: signal process started
+2021/01/12 18:01:40 [notice] 18360#11340: signal process started
+2021/01/12 18:01:57 [notice] 15400#17484: signal process started
+2021/01/12 18:02:08 [error] 12444#18092: *256 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:02:25 [notice] 17952#16020: signal process started
+2021/01/12 18:02:30 [error] 16644#5224: *263 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:03:14 [error] 16644#5224: *262 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:03:27 [emerg] 8932#15616: invalid number of arguments in "rewrite" directive in C:\Users\lifewatch01\Desktop\nginx-1.18.0/conf/nginx.conf:50
+2021/01/12 18:03:31 [emerg] 1724#2708: invalid number of arguments in "rewrite" directive in C:\Users\lifewatch01\Desktop\nginx-1.18.0/conf/nginx.conf:50
+2021/01/12 18:03:34 [notice] 6352#6148: signal process started
+2021/01/12 18:03:39 [error] 15764#14380: *264 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:03:49 [notice] 3936#13892: signal process started
+2021/01/12 18:03:54 [error] 11964#17592: *273 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:04:54 [notice] 17012#17248: signal process started
+2021/01/12 18:05:00 [error] 16744#16604: *278 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:05:16 [notice] 17724#18040: signal process started
+2021/01/12 18:05:22 [error] 7680#8400: *284 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:05:44 [error] 7680#8400: *284 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:06:01 [error] 7680#8400: *285 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/api/services/app/login/loginasync" failed (3: The system cannot find the path specified), client: 192.168.1.16, server: 0.0.0.0, request: "POST /api/services/app/login/loginasync HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
+2021/01/12 18:06:07 [notice] 7808#18236: signal process started
+2021/01/12 18:07:12 [notice] 12504#17304: signal process started
+2021/01/12 18:08:18 [notice] 13952#11228: signal process started
+2021/01/12 18:08:42 [notice] 17676#12220: signal process started
+2021/01/12 18:09:44 [notice] 12868#14668: signal process started
+2021/01/12 18:10:01 [notice] 8508#18296: signal process started
+2021/01/12 18:10:19 [notice] 14672#7448: signal process started
+2021/01/12 18:10:56 [notice] 16732#16800: signal process started
+2021/01/12 18:11:07 [notice] 17548#7328: signal process started
+2021/01/12 18:11:31 [notice] 17276#12876: signal process started
+2021/01/12 18:15:20 [notice] 13496#18072: signal process started
+2021/01/12 18:15:50 [notice] 16312#6672: signal process started
+2021/01/12 18:16:12 [notice] 15508#17736: signal process started
+2021/01/12 18:18:38 [notice] 17920#17844: signal process started
+2021/01/12 18:19:29 [notice] 1564#13892: signal process started
+2021/01/12 18:21:44 [notice] 16744#1084: signal process started
+2021/01/12 18:22:04 [notice] 2088#17476: signal process started
+2021/01/12 18:22:22 [notice] 13384#16192: signal process started
+2021/01/12 19:06:51 [error] 15516#11996: *378 directory index of "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/" is forbidden, client: 192.168.1.16, server: www.sim.lif-watch.com, request: "GET / HTTP/1.1", host: "192.168.1.16:8989"
+2021/01/12 19:06:51 [error] 15516#11996: *378 CreateFile() "C:\Users\lifewatch01\Desktop\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.16, server: www.sim.lif-watch.com, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.16:8989", referrer: "http://192.168.1.16:8989/"
